@@ -83,3 +83,4 @@ resource "aws_instance" "infra_ec2_instance_public_subnet_2" {
     Name = "VPC_Infra-Prod_EC2_Instance_lras_subnet_2"
   }
 }
+
